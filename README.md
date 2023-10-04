@@ -1,5 +1,5 @@
 ### Hello. This is nold.
-https://img.shields.io/badge/tems-bronto-blue
+![badge](https://img.shields.io/badge/tems-bronto-blue)
 <!--
 **nold0001/nold0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
