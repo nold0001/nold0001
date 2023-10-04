@@ -1,8 +1,8 @@
-### Hello. This is nold.
-![badge](https://img.shields.io/badge/tems-bronto-blue)
+### Hello. This is Nold.
+![badge](https://img.shields.io/badge/tems-bronto-blue) ![badge](https://img.shields.io/badge/90gt-deep%20sky-blue)
 
 I'm going to continue to evolve.<br>
-Please keep an eye on.<br>
+You can look forward do it.<br>
 Thank you.&nbsp;&nbsp;🔭
 <!--
 **nold0001/nold0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
